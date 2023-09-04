@@ -24,7 +24,7 @@ The `AbstractFactory` design pattern is a powerful tool that can be used to deco
 
 The directory structure of this project is as follows:
 
-
+```bash
 .
 ├── Concreates
 │   ├── modernFactory.go
@@ -45,6 +45,7 @@ The directory structure of this project is as follows:
 │       └── Table.go
 └── go.mod
 
+```
 
 The `Concreates` directory contains the concrete implementations of the `AbstractFactory` interface.
 
